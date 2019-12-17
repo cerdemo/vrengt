@@ -1,5 +1,5 @@
 # Vrengt
-Vrengt: A Shared Body–Machine Instrument for Music–Dance Performance <br />
+A Shared Body–Machine Instrument for Music–Dance Performance <br />
 <br />
 To cite: <br />
 @inproceedings{erdem2019vrengt, <br />
