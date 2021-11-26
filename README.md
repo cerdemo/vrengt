@@ -1,5 +1,5 @@
 # Vrengt
-A Shared Body–Machine Instrument for Music–Dance Performance <br />
+Vrengt is an interactive dance piece in which two performers share the control of the system <br />
 <br />
 To cite: <br />
 @inproceedings{erdem2019vrengt, <br />
